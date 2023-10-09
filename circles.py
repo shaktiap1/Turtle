@@ -1,7 +1,7 @@
 from turtle import *
 
 # change colors :
-colors = ["brown2", "lime", "blue4", "skyblue", "deeppink3", "gold"]
+colors = ["brown2", "lime", "red", "blue", "skyblue", "gold"]
 
 bgcolor("black")
 pensize(2)
